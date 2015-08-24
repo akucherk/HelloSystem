@@ -1,0 +1,7 @@
+D:\projects\My\HelloSystem\HelloSystem\HelloSystem\bin\Debug\HelloSystem.exe.config
+D:\projects\My\HelloSystem\HelloSystem\HelloSystem\bin\Debug\HelloSystem.exe
+D:\projects\My\HelloSystem\HelloSystem\HelloSystem\bin\Debug\HelloSystem.pdb
+D:\projects\My\HelloSystem\HelloSystem\HelloSystem\bin\Debug\encog-core-cs.dll
+D:\projects\My\HelloSystem\HelloSystem\HelloSystem\obj\Debug\HelloSystem.csprojResolveAssemblyReference.cache
+D:\projects\My\HelloSystem\HelloSystem\HelloSystem\obj\Debug\HelloSystem.exe
+D:\projects\My\HelloSystem\HelloSystem\HelloSystem\obj\Debug\HelloSystem.pdb
