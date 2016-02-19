@@ -43,9 +43,11 @@ namespace HelloSystem
 
 			var trainingSet = new BasicMLDataSet(XORInput, XORIdeal);
 			var train = new ResilientPropagation(network, trainingSet);
+			var epoch = 1;
 			do
 			{
 				train.Iteration();
+
 			} while (train.Error > 0.01);
 
 			train.FinishTraining();
